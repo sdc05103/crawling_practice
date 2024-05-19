@@ -1,0 +1,26 @@
+[
+  {
+    "date": "2024-04-05",
+    "tradePrice": 84500,
+    "openingPrice": 83200,
+    "highPrice": 85500,
+    "lowPrice": 82000,
+    "candleAccTradePrice": 11098747991217
+  },
+  {
+    "date": "2024-04-12",
+    "tradePrice": 83700,
+    "openingPrice": 85200,
+    "highPrice": 86000,
+    "lowPrice": 82500,
+    "candleAccTradePrice": 7174699191474
+  },
+  {
+    "date": "2024-04-19",
+    "tradePrice": 77600,
+    "openingPrice": 82900,
+    "highPrice": 83200,
+    "lowPrice": 76300,
+    "candleAccTradePrice": 10670676192269
+  }
+]
